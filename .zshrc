@@ -39,6 +39,8 @@ source $ZSH/oh-my-zsh.sh
 # Customize to your needs...
 export PATH=/opt/boxen/nvm/v0.8.8/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:/opt/boxen/homebrew/share/python:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin
 
+export EDITOR=st
+
 source /opt/boxen/env.sh
 source /opt/boxen/nvm/nvm.sh
 
